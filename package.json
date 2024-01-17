@@ -1,0 +1,37 @@
+{
+  "name": "namaeste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react by Akshay Saini",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiragtaluja/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Chirag Taluja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichiragtaluja/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ichiragtaluja/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
